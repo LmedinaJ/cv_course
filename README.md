@@ -6,7 +6,7 @@ This repository contains all assignments and projects for the Computer Vision co
 
 ```
 cv_course/
-├── assignment_01/     # Computer Vision Application with AR
+├── assignment_01/     # Computer Vision Application with AR and different camara modes
 ├── assignment_02/     # Future assignment
 ├── assignment_03/     # Future assignment
 └── class_project/     # Final class project
