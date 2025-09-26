@@ -21,7 +21,7 @@ A comprehensive computer vision application featuring:
 - Camera calibration
 - Real-time video processing
 
-[📖 View Assignment 01 Details](assignment_01/README.md)
+[View Assignment 01 Details](assignment_01/README.md)
 
 ### Assignment 02 
 
@@ -29,7 +29,7 @@ A comprehensive computer vision application featuring:
 
 ### Class Project 
 
-## 🛠️ General Requirements
+## General Requirements
 
 - Python 3.x
 - OpenCV (`cv2`)
