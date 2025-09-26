@@ -14,12 +14,7 @@ cv_course/
 
 ## Assignments
 
-### Assignment 01 - Computer Vision Application with AR
-A comprehensive computer vision application featuring:
-- Multiple image processing modes
-- Augmented Reality with 3D T-Rex model
-- Camera calibration
-- Real-time video processing
+### Assignment 01 - Computer Vision Application with AR and different camara modes
 
 [View Assignment 01 Details](assignment_01/README.md)
 
