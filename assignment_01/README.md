@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ### 3. Run the application
 ```bash
-python -m app.main
+python app_allone.py
 ```
 
 ### 4. Use the application
@@ -46,11 +46,5 @@ python -m app.main
 Install with: `pip install -r requirements.txt`
 
 
-### Relative import error:
-```bash
-# ❌ Don't do this:
-python app/main.py
-
-# ✅ Do this:
-python -m app.main
-```
+## Note
+This application is contained in a single file `app_allone.py` for easy distribution and execution.
