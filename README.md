@@ -6,30 +6,44 @@ This repository contains all assignments and projects for the Computer Vision co
 
 ```
 cv_course/
-├── assignment_01/     # Computer Vision Application with AR and different camara modes
-├── assignment_02/     # Future assignment
-├── assignment_03/     # Future assignment
+├── assignment_01/     # Computer Vision Application with AR and camera modes
+├── assignment_02/     # CNN, Object Detection, and Tracking
+├── assignment_03/     # Segmentation and Generative Models
 └── class_project/     # Final class project
 ```
 
 ## Assignments
 
-### Assignment 01 - Computer Vision Application with AR and different camara modes
+### Assignment 01 - Computer Vision Application
+
+Interactive application with AR features and multiple camera modes including filters, transformations, panorama, and calibration.
 
 [View Assignment 01 Details](assignment_01/README.md)
 
-### Assignment 02 
+### Assignment 02 - Deep Learning Models
 
-### Assignment 03 
+Three tasks covering CNN architectures on CIFAR-10, object detection model comparison, and object tracking algorithms.
 
-### Class Project 
+[View Assignment 02 Details](assignment_02/README.md)
+
+### Assignment 03 - Segmentation and Generative Models
+
+Three tasks: GrabCut segmentation with YOLOv8, FCN semantic segmentation on COCO, and Variational Autoencoder on MNIST.
+
+[View Assignment 03 Details](assignment_03/README.md)
+
+### Class Project
+
+Coming soon. 
 
 ## General Requirements
 
-- Python 3.x
-- OpenCV (`cv2`)
+- Python 3.8+
+- PyTorch
+- OpenCV
 - NumPy
-- Camera/Webcam
+- Matplotlib
+- Camera/Webcam (for Assignment 01)
 
 ## Quick Start
 
